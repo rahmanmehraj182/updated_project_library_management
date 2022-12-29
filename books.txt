@@ -1,0 +1,20 @@
+To Kill a Mockingbird
+Harper Lee
+008950165
+Third Edition
+158
+The Beginner's Guide to C#
+Eric Frick
+152190555X
+First Edition
+150
+Let Us C
+Yashavant P. Kanetkar
+8183331637
+15th Edition
+180
+C++ Primer
+Stanley Lippman
+9780321714114
+15th Edition
+180
